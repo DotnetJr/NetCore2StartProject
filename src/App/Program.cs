@@ -2,7 +2,7 @@
 using static System.Console;
 using Library;
 
-namespace app
+namespace App
 {
     class Program
     {

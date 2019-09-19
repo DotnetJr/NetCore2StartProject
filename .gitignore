@@ -6,8 +6,8 @@
 # Omit contents of bin and obj
 src/*/bin/*
 src/*/obj/*
-test/*/bin/*
-test/*/obj/*
+tests/*/bin/*
+tests/*/obj/*
 
 # Visual Studio Code Config
 .vscode/*
