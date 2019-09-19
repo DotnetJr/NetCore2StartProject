@@ -1,0 +1,13 @@
+# .Net Core Start Project - .gitignore file
+
+# Mac file
+.DS_Store
+
+# Omit contents of bin and obj
+src/*/bin/*
+src/*/obj/*
+test/*/bin/*
+test/*/obj/*
+
+# Visual Studio Code Config
+.vscode/*
