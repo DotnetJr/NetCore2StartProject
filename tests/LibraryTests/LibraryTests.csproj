@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <RootNamespace>test_library</RootNamespace>
+    <RootNamespace>TestApp</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
